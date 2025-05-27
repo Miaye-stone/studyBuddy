@@ -1,0 +1,13 @@
+@import '../../vars.css';
+
+.container {
+    background-color: var(--color-primarylight);
+    width: 100vw;
+    height: 100vh;
+    color: var(--color-greytwo);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}

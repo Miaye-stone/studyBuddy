@@ -1,0 +1,15 @@
+:root {
+    /* Colors */
+    --color-white: #F8F7FB;
+    --color-whitetwo: #EEEBF4;
+    --color-transparent: #2C2B2F99;
+    --color-greyone: #848385;
+    --color-greytwo: #565558;
+    --color-greythree: #D4D4D4;
+    --color-primary: #563B97;
+    --color-primarylight: #DDD8EA;
+
+    /* Font */
+    --font-family: "Urbanist", "Roboto", sans-serif;
+    
+}
