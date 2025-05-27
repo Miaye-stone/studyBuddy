@@ -7,7 +7,7 @@ function Dashboard() {
     <div className={styles.container}>
     <img src={studyBuddyLogo} />
     <h1>Coming Soon</h1>
-    <p>Still working on this and would update soon</p>
+    <p>Still working on this and would update soon, grinding code.</p>
     <Link to="/">Go back to Sign up</Link>
   </div>
   );
